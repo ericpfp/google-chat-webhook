@@ -1,6 +1,6 @@
 # Google Chat Webhook Sender
 
-A Google Chat simple webhook sender. Forked from https://thatziv.github.io/webhook/
+A Google Chat simple webhook sender. Forked from https://github.com/thatsiv/webhook/
 
 HOW TO USE:
  -  Go to the Google Chat/Hangout you would like to use. (Only Google Chat users can see your webhook messages)

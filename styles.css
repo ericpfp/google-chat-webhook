@@ -16,6 +16,10 @@ body {
   padding: 25px;
 }
 
+#desc {
+  color: #FFFFFF;
+}
+
 #header {
   text-align: center;
   margin-top: 47px;
