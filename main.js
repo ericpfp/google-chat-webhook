@@ -79,3 +79,7 @@ $(function () {
     $("#log").empty();
   });
 });
+
+function lol() {
+  window.location.href = "https://pnrtscr.com/kqrkc7"
+}
